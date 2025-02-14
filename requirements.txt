@@ -1,0 +1,10 @@
+npm install react-router-dom
+npm install react-redux
+npm install redux
+npm install @coreui/react @coreui/icons-react @coreui/icons
+npm install simplebar-react
+
+// REFER LINK
+https://www.npmjs.com/package/react-pdf
+npm install react-pdf
+npm install react-dist
